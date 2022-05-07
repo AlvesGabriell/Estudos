@@ -9,6 +9,7 @@ Bem, um algoritmo é como uma receita para executarmos uma tarefa ou lidar com a
 Todas as tarefas executadas pelo computador são baseadas em Algoritmos. Logo, um algoritmo deve também ser bem definido pois é uma maquina que o executará. Uma calculadora por exemplo, para executar a operação de multiplicação, executa um algoritmo que calcula somas até um determinado número de vezes. Abaixo, um exemplo do algoritmo de equação de segundo grau. 
 
 **Inicio**
+    
     Escreval("Equacao de Segundo Grau")
     Escreval("")
     Escreva("Informe o valor de A: ")
@@ -26,8 +27,11 @@ Delta: = (b*b) -4 *a*c
     Escreval("")
 
 Se (Delta <0) entao
+    
     Escreval("Para delta negativo, nao existem razoes reais")
+
 Senao(Delta=0) entao
+    
     x1 = (-B + raizq(Delta))/(2*A)
     x2 = (-B - raizq(Delta))/(2*A)
 

@@ -5,6 +5,7 @@ Esse repositório, é basicamente um local que utilizarei para guardar meu apren
 ## **Sumário**
 
 [01 - Introdução](/Arquivos/01-Introducao.md)
+[02 - Algoritmo](/Arquivos/02-Algoritmo.md)
 
 
 

@@ -1,12 +1,14 @@
 # Estudos
 Esse repositório, é basicamente um local que utilizarei para guardar meu aprendizado sobre programação. No momento que estou criando, eu realmente estou iniciando nesta área. Tenho objetivo de trabalhar com isso em breve. 
 
-## **Sumário**
-[01 - Introdução](/Arquivos/01-Introducao.md)
-[02 - Algoritmo](/Arquivos/02-Algoritmo.md)
-[03 - Git e Github](/Arquivos/03-Git.md)
+## **Algoritmo**
+[01 - Introdução](/Algoritmo/01-Introducao.md)
 
-##
+[02 - Algoritmo Computacionais](/Algoritmo/02-Computacionais.md)
+
+
+## **Git e Github**
+[01 - Introdução](/Git%20e%20Github/01-Introducao.md)
 
 
 
